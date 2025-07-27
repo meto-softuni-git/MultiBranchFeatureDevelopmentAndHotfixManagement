@@ -1,1 +1,2 @@
 Authentication feature implementation
+Authentication feature tests
